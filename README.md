@@ -22,8 +22,7 @@ O objetivo é permitir que o usuário cadastre nomes de participantes e, com ape
 ![video-amigo-secreto](https://github.com/user-attachments/assets/4eeb8a03-98f7-43d3-9347-480b4c693f07)
 
 ## Teste e divirta-se com seus amigos
-👉 Acesse aqui: [Amigo Secreto](https://github.com/antonielacastro/challenge-amigo-secreto)
-
+👉 Acesse aqui: [Amigo Secreto](https://challenge-amigo-secreto-gray-two.vercel.app/)
 
 ## 🛠 Tecnologias
 
